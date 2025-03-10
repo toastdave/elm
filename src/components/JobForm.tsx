@@ -213,9 +213,9 @@ export function JobForm() {
                   </FormControl>
                   <SelectContent>
                     <SelectItem value="high-school">High School</SelectItem>
-                    <SelectItem value="associate">Associate's Degree</SelectItem>
-                    <SelectItem value="bachelor">Bachelor's Degree</SelectItem>
-                    <SelectItem value="master">Master's Degree</SelectItem>
+                    <SelectItem value="associate">Associate&apos;s Degree</SelectItem>
+                    <SelectItem value="bachelor">Bachelor&apos;s Degree</SelectItem>
+                    <SelectItem value="master">Master&apos;s Degree</SelectItem>
                     <SelectItem value="phd">PhD</SelectItem>
                     <SelectItem value="other">Other</SelectItem>
                   </SelectContent>
